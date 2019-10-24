@@ -14,4 +14,3 @@ The network had thirteen layers:
 13. Convolutional layer: 3 × 3 kernel with one filter
 All layers used a Rectified Linear Unit (ReLU) activation
 function except for the last, which used a sigmoid activation.
-
